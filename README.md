@@ -46,10 +46,6 @@ To build a classification model that predicts employee attrition and helps organ
 
 ---
 
-
-
----
-
 ## 🏆 Model Performance
 
 | Model               | Accuracy |
